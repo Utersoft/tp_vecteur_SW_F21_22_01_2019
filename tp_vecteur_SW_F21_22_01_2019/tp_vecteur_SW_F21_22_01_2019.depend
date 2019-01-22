@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\utersoft\desktop\cours\code block projets\tp_vecteur_sw_f21_22_01_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548151138 source:c:\users\utersoft\desktop\cours\code block projets\tp_vecteur_sw_f21_22_01_2019\point.c
+	"point.h"
+
+1548151135 c:\users\utersoft\desktop\cours\code block projets\tp_vecteur_sw_f21_22_01_2019\point.h
+
